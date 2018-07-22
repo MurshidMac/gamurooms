@@ -1,4 +1,4 @@
-name := """play-getting-started"""
+name := """gamurooms"""
 
 version := "1.0-SNAPSHOT"
 
