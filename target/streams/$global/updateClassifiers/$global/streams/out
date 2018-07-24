@@ -9926,7 +9926,7 @@
 [debug] 	[NOT REQUIRED] org.ow2.asm#asm-analysis;4.1!asm-analysis.jar(src)
 [debug] 	[NOT REQUIRED] com.google.guava#guava;16.0.1!guava.jar(src)
 [debug] 	[NOT REQUIRED] jline#jline;2.12.1!jline.jar(src)
-[debug] :: resolution report :: resolve 8575ms :: artifacts dl 120ms
+[debug] :: resolution report :: resolve 7770ms :: artifacts dl 123ms
 [debug] 	report for gamurooms#gamurooms$sources_2.11;1.0-SNAPSHOT compile produced in /Users/murshidhassen/Documents/Projects/gamurooms/target/resolution-cache/reports/gamurooms-gamurooms$sources_2.11-compile.xml
 [debug] 	report for gamurooms#gamurooms$sources_2.11;1.0-SNAPSHOT runtime produced in /Users/murshidhassen/Documents/Projects/gamurooms/target/resolution-cache/reports/gamurooms-gamurooms$sources_2.11-runtime.xml
 [debug] 	report for gamurooms#gamurooms$sources_2.11;1.0-SNAPSHOT test produced in /Users/murshidhassen/Documents/Projects/gamurooms/target/resolution-cache/reports/gamurooms-gamurooms$sources_2.11-test.xml
@@ -9940,4 +9940,4 @@
 [debug] 	report for gamurooms#gamurooms$sources_2.11;1.0-SNAPSHOT docs produced in /Users/murshidhassen/Documents/Projects/gamurooms/target/resolution-cache/reports/gamurooms-gamurooms$sources_2.11-docs.xml
 [debug] 	report for gamurooms#gamurooms$sources_2.11;1.0-SNAPSHOT pom produced in /Users/murshidhassen/Documents/Projects/gamurooms/target/resolution-cache/reports/gamurooms-gamurooms$sources_2.11-pom.xml
 [debug] 	report for gamurooms#gamurooms$sources_2.11;1.0-SNAPSHOT scala-tool produced in /Users/murshidhassen/Documents/Projects/gamurooms/target/resolution-cache/reports/gamurooms-gamurooms$sources_2.11-scala-tool.xml
-[debug] 	resolve done (8575ms resolve - 120ms download)
+[debug] 	resolve done (7770ms resolve - 123ms download)
