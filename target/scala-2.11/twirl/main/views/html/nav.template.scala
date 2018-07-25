@@ -24,7 +24,7 @@ class nav extends BaseScalaTemplate[play.twirl.api.HtmlFormat.Appendable,Format[
 
 Seq[Any](format.raw/*1.1*/("""<nav class="navbar navbar-default navbar-static-top navbar-inverse">
   <div class="container">
-    <div><h1>First Element</h1></div>
+    <div><h1></h1></div>
   </div>
 </nav>
 """))
@@ -47,9 +47,9 @@ Seq[Any](format.raw/*1.1*/("""<nav class="navbar navbar-default navbar-static-to
 object nav extends nav_Scope0.nav
               /*
                   -- GENERATED --
-                  DATE: Tue Jul 24 07:06:56 IST 2018
+                  DATE: Wed Jul 25 07:24:54 IST 2018
                   SOURCE: /Users/murshidhassen/Documents/Projects/gamurooms/app/views/nav.scala.html
-                  HASH: f5f6959ad362337aea721292b1e37ec9cf4d02a7
+                  HASH: d8d71fc56ab06c23029b2c2537f635f8a8418ec8
                   MATRIX: 605->0
                   LINES: 25->1
                   -- GENERATED --
